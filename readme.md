@@ -1,6 +1,6 @@
 # Building a Todo App
 
-![image](https://github.com/acypert/Todo-App/assets/17516839/dc3a142d-1f52-4880-95d5-50aa0a0df017)
+![image](https://github.com/acypert/Todo-App/assets/17516839/20a4e56c-7d7f-49e0-8f99-ad0c8772be39)
 
 ## Resources
 - Fork this repo as a starting point
